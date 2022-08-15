@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abkardev
 - 👀 I’m interested in frontend developments
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently working with React 
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me ? to my email ammg.11@hotmail.com
 - 🌐 https://www.abkarcode.com
